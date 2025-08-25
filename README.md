@@ -7,6 +7,8 @@ Whether you're a casual player or a competitive puzzle master, test your strateg
 
 👉 [2048 juego](https://2048juego.com/en/) | [English]([[https://github.com/histeven168/2048juego/blob/main/README.md](https://github.com/histeven168/2048juego/edit/main/README.md)](https://github.com/histeven168/2048juego/edit/main/README.md))
 
+👉 [2048 cupcakes](https://cupcakes2048。org/) | [Cupcakes]([[https://github.com/histeven168/2048juego/blob/main/README.md](https://github.com/histeven168/2048juego/edit/main/README.md)](https://github.com/histeven168/2048juego/edit/main/README.md))
+
 
 ## Quick Started
 
