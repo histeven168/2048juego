@@ -48,3 +48,4 @@ pnpm dev
 
 ### 5. Open [localhost](localhost) with your browser to see it.
 ![favicon.png](https://2048juego.com/favicon.png)
+![cupcakes 2048](https://cupcakes2048.org/images/step1.webp)
